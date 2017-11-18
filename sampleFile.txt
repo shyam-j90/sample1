@@ -1,2 +1,5 @@
 Just a sample text!
 Made this change in the Remote directly!
+Tis change was made in the local develop!
+This will be a default push from develop
+
