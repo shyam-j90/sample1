@@ -4,4 +4,5 @@ This change was made in the local develop!
 This will be a default push from develop
 Local develop to Remote Master didn't work
 Local develop to remote develop
-Change made from the localonlybranch
+This is the new Feature branch!
+This change is from the local only branch
